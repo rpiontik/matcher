@@ -1,10 +1,9 @@
 /*
  ============================================================================
  Name        : matcher.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Author      : r.piontik@mail.ru
+ Version     : 0.0.3
+ Description : CryptoMatcher
  ============================================================================
  */
 
